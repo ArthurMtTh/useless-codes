@@ -1,3 +1,5 @@
+; yes, i made a hello world in arm64
+;i don't now why but i made
 .data
 
 msg:
